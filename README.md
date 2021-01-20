@@ -6,7 +6,7 @@ solution can be either a one-step algorithm where the polarizabilities are basic
 perturbations, or the full self-consistent iterative solution.
 
 Example use cases: An assembly of molecules and the need to compute interaction energies
-for a given ensemble of orientations. This might include, for example, computing gas properties of 
+for a given ensemble of orientations. This might include, for example, computing Gibbs Ensemble-based gas properties of 
 oderate injected natural gas. This is an alternative to the traditional partial-charge based 
 methods (such as using a TIP3P style potential) which replaces long range (1/R) explicit charge forces
 for the much shorted ranges (1/R^3 and less) in the MMC models.
